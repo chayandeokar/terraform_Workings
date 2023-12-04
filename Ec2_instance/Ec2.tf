@@ -1,5 +1,4 @@
 # Create an EC2 Instance on AWS using Terraform
-This guide provides step-by-step instructions for creating an EC2 instance on AWS using Terraform. Follow the sections below to set up your EC2 instance effortlessly.
 
 ## Steps :
 ### 1. Create ec2_instance.tf File
